@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&text=SWADEEP%20BANSODE&fontSize=58&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:020617,15:00ffff,45:8b5cf6,75:ff0055,100:020617" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&text=SYGNIX%20ECOSYSTEM&fontSize=58&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:020617,15:00ffff,45:8b5cf6,75:ff0055,100:020617" />
 
 # ⚡ SWADEEP BANSODE
 
